@@ -51,11 +51,8 @@ Bootstrap
 ## Backend
 
 ```txt
-Node.js
-Express.js
-REST APIs
-Authentication
-Database Design
+Laravel
+Python
 ```
 
 ## Databases
@@ -80,11 +77,7 @@ Cross Platform Applications
 
 ```txt
 JavaScript
-TypeScript
 Python
-C#
-C++
-Java
 SQL
 ```
 
@@ -126,7 +119,7 @@ Figma
 
 ```javascript
 const aliJawadi = {
-  code: ["JavaScript", "TypeScript", "Python", "C#", "C++"],
+  code: ["JavaScript", "TypeScript", "Python", "PHP", "Laravel"],
   architecture: ["Frontend", "Backend", "Desktop Apps"],
   currentFocus: "Building scalable applications",
   challenge: "Learning something new every day",
@@ -156,8 +149,9 @@ console.log("Welcome to my GitHub Profile 🚀");
 
 ```txt
 Developer : Ali Jawadi
-GitHub    : https://github.com/YOUR_USERNAME
-Email     : your-email@example.com
+GitHub    : https://github.com/4lijawadi
+Email     : contact@alijawadi.com
+website   : https://alijawadi.com
 ```
 
 ---
